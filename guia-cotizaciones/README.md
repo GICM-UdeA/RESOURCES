@@ -40,23 +40,13 @@ Si su trabajo será remunerado bajo la figura de prestación de servicios, usted
 > - Se preste un servicio por más de 30 días.
 > - Sea independiente de alto riesgo (IV y V), actividades economicas establecidas en el decreto 1607 de 2002.
 
-2. El aporte se hace a través de las planillas de liquidación de aportes ([PILAS](https://www.minsalud.gov.co/proteccionsocial/Paginas/pila.aspx)), en especifico una planilla de categoria tipo I (i latina). Puede usar el portal de [aportes en linea](https://www.aportesenlinea.com/Home/home.aspx?ReturnUrl=%2f) para este fin.
+2. El aporte se hace a través de las planillas de liquidación de aportes ([PILAS](https://www.minsalud.gov.co/proteccionsocial/Paginas/pila.aspx)), en especifico una planilla de categoria tipo I (i latina). Puede usar el portal de [aportes en linea](https://www.aportesenlinea.com/Home/home.aspx?ReturnUrl=%2f) para este fin. Y una [calculadora en linea](https://corporativo.compensar.com/afiliaciones/calculadora-aportes) para revisar cuando debe aportar.
 > [!WARNING]
 > Antes de hacer los aportes, **DEBE ESTAR AFILIADO** tanto a la EPS, fondo de pensión y ARL (un día antes de iniciar labores para que aplique la cobertura). En teoría, se puede hacer a través del Sistema de Afiliación Transaccional ([SAT](https://www.minsalud.gov.co/proteccionsocial/Paginas/afiliacion-transaccional-sat.aspx)).
 
 
 > [!TIP]
 > Si usted es un trabajador bajo contratación normal por medio de una empresa (asalariado), no esta exento de hacer los aportes como independiente.
-
-# Calculadora de Aportes a Seguridad Social en Colombia
-
-Haz clic en el siguiente enlace para abrir el formulario interactivo de la calculadora de aportes a la seguridad social en Colombia:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GICM-UdeA/RESOURCES/main?filepath=guia-cotizaciones/calculadora_aportes.ipynb)
-
-**Nota:** Puede tomar unos minutos para que el entorno se inicie.
-
-Una vez que el entorno se haya iniciado, abre el archivo "Calculadora_Aportes_Seguridad_Social_Colombia.ipynb" y sigue las instrucciones para ingresar tu ingreso mensual y calcular tus aportes.
 
 
 [sea-link]: https://www.udea.edu.co/wps/portal/udea/web/inicio/somos-udea/estudiantes/becas-estimulos/estimulos-academicos-sea/!ut/p/z1/zVVNb-IwEP0rcMgxeBLng-wtpIimGwFp-Si5VI5jIKskprEpbX_9GqqutqVAqy7S-hI_682bzDxrjBJ0i5KKPOQLInNekULhWeLc9WO7a5gBRL0w6oAf4Xg8sCadTtdG0x2h7QWm4VsQQT-8AN_B42AURgCAUfK1-J-GDX7cHfZHg2B4cWV-Lh4OLB8-F3-EkByXn6AEJbSSK7lEsxWvJSnWGSMaEPEWLXnJXveCl1y8ACbkOstJJZnQIGWUiMZTQx02KW6SrFwXXOxIf-EGoSTbYa_MqcJ6Q2ylKFcqVZ7xbYqSVeuCSFaTQoM5r0siudj-64rmGZq5aZZRLyO6C6mpW2BhnXjU0M25mc2BWJ5tU9WbZFf-AXf9G3ycoMw8QYBXhT8GDELchdjr20PcC03L3U-xf0NOeTRTHrsHPR5jNH3I2QaNq22bCnTzxTZdnspgmN_M8E4enNgCZxBhz3CGpjsxziuP_638--bYZ5VX5pxV3jyvvPtN-atT808N-PzX_X3iqym2nR-PEt3-92NMVbUoePryPvlVitsLlNRszmpWt9a1Ol5KuRI_NNBgs9m0FpwvCtaivNTgo5AlF6rst0y0KsdqlW3sXHevL587fb0XpO3NaF7ufZ7wc8SmfrP5GwjMciQ!/?1dmy&urile=wcm%3apath%3a/PortalUdeA/asPortalUdeA/asHomeUdeA/asSomosUdeA/Estudiantes/Becas+y+est%21c3%21admulos/Est%21c3%21admulos+acad%21c3%21a9micos+-+SEA/Contenido/asMenuLateral/novedades-sea
