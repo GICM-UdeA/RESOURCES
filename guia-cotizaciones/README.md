@@ -36,17 +36,19 @@ Si su trabajo será remunerado bajo la figura de prestación de servicios, usted
 > * Si se superan los 4 SMMLV, se debe hacer un aporte adicional al fondo de solidaridad pensional (FSP), esto se encuentra reglamentado en el art 27 de la ley 100 y en el art 2.2.3.1.9 del decreto 1833 de 2016.
 
 > [!TIP]
-> El aporte a ARL es obligatorio solo en caso de que:
+> El aporte a ARL es obligatorio solo en caso de que (revisar a fondo la ley 1562 de 2012):
 > - Se preste un servicio por más de 30 días.
 > - Sea independiente de alto riesgo (IV y V), actividades economicas establecidas en el decreto 1607 de 2002.
+> El aporte a pensión también tiene algunas exenciones, revise el decreto 758 de 1990
 
 2. El aporte se hace a través de las planillas de liquidación de aportes ([PILAS](https://www.minsalud.gov.co/proteccionsocial/Paginas/pila.aspx)), en especifico una planilla de categoria tipo I (i latina). Puede usar el portal de [aportes en linea](https://www.aportesenlinea.com/Home/home.aspx?ReturnUrl=%2f) para este fin. Y una [calculadora en linea](https://corporativo.compensar.com/afiliaciones/calculadora-aportes) para revisar cuando debe aportar.
 > [!WARNING]
 > Antes de hacer los aportes, **DEBE ESTAR AFILIADO** tanto a la EPS, fondo de pensión y ARL (un día antes de iniciar labores para que aplique la cobertura). En teoría, se puede hacer a través del Sistema de Afiliación Transaccional ([SAT](https://www.minsalud.gov.co/proteccionsocial/Paginas/afiliacion-transaccional-sat.aspx)).
-
-
-> [!TIP]
 > Si usted es un trabajador bajo contratación normal por medio de una empresa (asalariado), no esta exento de hacer los aportes como independiente.
+
+Una vez este listo para emiter la cuent de cobro, debe redactarla indicando entre otras cosas: A quien se hace el cobro y quien es el que recibe el pago, el monto y el concepto por el cual se hace el cobro, los datos de pago, e indicar que ya se han hecho los aportes a seguirdad social correspondientes.
+>[!NOTE]
+> Considere revisar si se deben tener en cuenta conceptos relacionados con retención en la fuente. 
 
 
 [sea-link]: https://www.udea.edu.co/wps/portal/udea/web/inicio/somos-udea/estudiantes/becas-estimulos/estimulos-academicos-sea/!ut/p/z1/zVVNb-IwEP0rcMgxeBLng-wtpIimGwFp-Si5VI5jIKskprEpbX_9GqqutqVAqy7S-hI_682bzDxrjBJ0i5KKPOQLInNekULhWeLc9WO7a5gBRL0w6oAf4Xg8sCadTtdG0x2h7QWm4VsQQT-8AN_B42AURgCAUfK1-J-GDX7cHfZHg2B4cWV-Lh4OLB8-F3-EkByXn6AEJbSSK7lEsxWvJSnWGSMaEPEWLXnJXveCl1y8ACbkOstJJZnQIGWUiMZTQx02KW6SrFwXXOxIf-EGoSTbYa_MqcJ6Q2ylKFcqVZ7xbYqSVeuCSFaTQoM5r0siudj-64rmGZq5aZZRLyO6C6mpW2BhnXjU0M25mc2BWJ5tU9WbZFf-AXf9G3ycoMw8QYBXhT8GDELchdjr20PcC03L3U-xf0NOeTRTHrsHPR5jNH3I2QaNq22bCnTzxTZdnspgmN_M8E4enNgCZxBhz3CGpjsxziuP_638--bYZ5VX5pxV3jyvvPtN-atT808N-PzX_X3iqym2nR-PEt3-92NMVbUoePryPvlVitsLlNRszmpWt9a1Ol5KuRI_NNBgs9m0FpwvCtaivNTgo5AlF6rst0y0KsdqlW3sXHevL587fb0XpO3NaF7ufZ7wc8SmfrP5GwjMciQ!/?1dmy&urile=wcm%3apath%3a/PortalUdeA/asPortalUdeA/asHomeUdeA/asSomosUdeA/Estudiantes/Becas+y+est%21c3%21admulos/Est%21c3%21admulos+acad%21c3%21a9micos+-+SEA/Contenido/asMenuLateral/novedades-sea
