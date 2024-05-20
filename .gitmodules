@@ -1,0 +1,3 @@
+[submodule "guia-pyqt"]
+	path = guia-pyqt
+	url = https://github.com/GICM-UdeA/guia-pyqt.git
